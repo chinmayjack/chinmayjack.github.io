@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'His to be Love, that your spirit to live  in a natural holiness.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'And the glisten of tears 'round the moon.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Hast scarcely lost its deep old.'      
 };
 
 function status(statusText) {
