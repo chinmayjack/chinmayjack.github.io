@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'His to be Love, that your spirit to live  in a natural holiness.',
   'example2':
-      'And the glisten of tears round the moon.',
+      'Tonnison said that he did not think so',
   'example3':
       'Hast scarcely lost its deep old.'      
 };
