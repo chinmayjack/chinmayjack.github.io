@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'His to be Love, that your spirit to live  in a natural holiness.',
   'example2':
-      'Tonnison said that he did not think so',
+      'Out in the night with the Dead',
   'example3':
       'Hast scarcely lost its deep old.'      
 };
